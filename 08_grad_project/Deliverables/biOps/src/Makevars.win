@@ -1,0 +1,2 @@
+PKG_LIBS= -ltiff -ljpeg -lz -lfftw3-3
+

@@ -1,0 +1,1768 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  18 MAY 2013 02:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**gradProject.tex
+(./gradProject.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count87
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip11
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 1999/11/29 v1.2d
+\athelp@=\toks20
+\minaw@=\dimen114
+\bigaw@=\dimen115
+\minCDarrowwidth=\dimen116
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen117
+\Gm@wd@mp=\dimen118
+\Gm@odd@mp=\dimen119
+\Gm@even@mp=\dimen120
+\Gm@layoutwidth=\dimen121
+\Gm@layoutheight=\dimen122
+\Gm@layouthoffset=\dimen123
+\Gm@layoutvoffset=\dimen124
+\Gm@dimlist=\toks21
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip48
+\f@ncyO@elh=\skip49
+\f@ncyO@erh=\skip50
+\f@ncyO@olh=\skip51
+\f@ncyO@orh=\skip52
+\f@ncyO@elf=\skip53
+\f@ncyO@erf=\skip54
+\f@ncyO@olf=\skip55
+\f@ncyO@orf=\skip56
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2010/10/13 v2.3e parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 43.
+\cftparskip=\skip57
+\cftbeforetoctitleskip=\skip58
+\cftaftertoctitleskip=\skip59
+\cftbeforepartskip=\skip60
+\cftpartnumwidth=\skip61
+\cftpartindent=\skip62
+\cftbeforesecskip=\skip63
+\cftsecindent=\skip64
+\cftsecnumwidth=\skip65
+\cftbeforesubsecskip=\skip66
+\cftsubsecindent=\skip67
+\cftsubsecnumwidth=\skip68
+\cftbeforesubsubsecskip=\skip69
+\cftsubsubsecindent=\skip70
+\cftsubsubsecnumwidth=\skip71
+\cftbeforeparaskip=\skip72
+\cftparaindent=\skip73
+\cftparanumwidth=\skip74
+\cftbeforesubparaskip=\skip75
+\cftsubparaindent=\skip76
+\cftsubparanumwidth=\skip77
+\cftbeforeloftitleskip=\skip78
+\cftafterloftitleskip=\skip79
+\cftbeforefigskip=\skip80
+\cftfigindent=\skip81
+\cftfignumwidth=\skip82
+\c@lofdepth=\count104
+\c@lotdepth=\count105
+\cftbeforelottitleskip=\skip83
+\cftafterlottitleskip=\skip84
+\cftbeforetabskip=\skip85
+\cfttabindent=\skip86
+\cfttabnumwidth=\skip87
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2011/03/10 v0.4n Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count106
+\calc@Bcount=\count107
+\calc@Adimen=\dimen125
+\calc@Bdimen=\dimen126
+\calc@Askip=\skip88
+\calc@Bskip=\skip89
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count108
+\calc@Cskip=\skip90
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2011/03/10 v0.4n Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box28
+\AM@toc@title=\toks22
+\c@AM@survey=\count109
+\AM@templatesizebox=\box29
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2011/02/01 v1.0d Increase limit of unprocessed floats (HMM;
+ DH)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+\c@maxfloats=\count110
+
+
+Package maxfloats Warning: 
+(maxfloats)                Maximum number of possible floats asked for: 36.
+(maxfloats)                LaTeX might run out of dimensions or memory
+(maxfloats)                before this (in which case it will notify you).
+(maxfloats)                 on input line 127.
+
+\bx@S=\insert233
+\bx@T=\insert232
+\bx@U=\insert231
+\bx@V=\insert230
+\bx@W=\insert229
+\bx@X=\insert228
+\bx@Y=\insert227
+\bx@Z=\insert226
+\bx@AA=\insert225
+\bx@AB=\insert224
+\bx@AC=\insert223
+\bx@AD=\insert222
+\bx@AE=\insert221
+\bx@AF=\insert220
+\bx@AG=\insert219
+\bx@AH=\insert218
+\bx@AI=\insert217
+\bx@AJ=\insert216
+) (./gradProject.aux)
+\openout1 = `gradProject.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 19.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen127
+\scratchbox=\box30
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen128
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box31
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
+ (./gradProject.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `gradProject.toc'.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+[2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 96.
+ <bigfinger.png, id=13, 347.2975pt x 501.875pt>
+File: bigfinger.png Graphic file (type png)
+ <use bigfinger.png>
+Package pdftex.def Info: bigfinger.png used on input line 101.
+(pdftex.def)             Requested size: 295.20425pt x 426.59575pt.
+ [3 <./bigfinger.png>] <bigfingerSobel.png, id=19, 347.2975pt x 501.875pt>
+File: bigfingerSobel.png Graphic file (type png)
+
+<use bigfingerSobel.png>
+Package pdftex.def Info: bigfingerSobel.png used on input line 108.
+(pdftex.def)             Requested size: 347.29665pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bigfingerCanny.png, id=20, 347.2975pt x 501.875pt>
+File: bigfingerCanny.png Graphic file (type png)
+ <use bigfingerCanny.png>
+Package pdftex.def Info: bigfingerCanny.png used on input line 116.
+(pdftex.def)             Requested size: 347.29665pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bigfingerLePlace.png, id=21, 347.2975pt x 501.875pt>
+File: bigfingerLePlace.png Graphic file (type png)
+
+<use bigfingerLePlace.png>
+Package pdftex.def Info: bigfingerLePlace.png used on input line 123.
+(pdftex.def)             Requested size: 347.29665pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bigfingerLePlaceGauss.png, id=22, 347.2975pt x 501.875pt>
+File: bigfingerLePlaceGauss.png Graphic file (type png)
+
+<use bigfingerLePlaceGauss.png>
+Package pdftex.def Info: bigfingerLePlaceGauss.png used on input line 130.
+(pdftex.def)             Requested size: 347.29665pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bigfingerLePlaceGaussThreshold.png, id=23, 347.2975pt x 501.875pt>
+File: bigfingerLePlaceGaussThreshold.png Graphic file (type png)
+
+<use bigfingerLePlaceGaussThreshold.png>
+Package pdftex.def Info: bigfingerLePlaceGaussThreshold.png used on input line 
+137.
+(pdftex.def)             Requested size: 347.29665pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bigfingerFreiChen.png, id=24, 347.2975pt x 501.875pt>
+File: bigfingerFreiChen.png Graphic file (type png)
+
+<use bigfingerFreiChen.png>
+Package pdftex.def Info: bigfingerFreiChen.png used on input line 144.
+(pdftex.def)             Requested size: 347.29665pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bigfingerPrewitt.png, id=25, 347.2975pt x 501.875pt>
+File: bigfingerPrewitt.png Graphic file (type png)
+
+<use bigfingerPrewitt.png>
+Package pdftex.def Info: bigfingerPrewitt.png used on input line 152.
+(pdftex.def)             Requested size: 347.29665pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bigfingerDiffEdge.png, id=26, 347.2975pt x 501.875pt>
+File: bigfingerDiffEdge.png Graphic file (type png)
+
+<use bigfingerDiffEdge.png>
+Package pdftex.def Info: bigfingerDiffEdge.png used on input line 159.
+(pdftex.def)             Requested size: 347.29665pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<bigfingerHomoEdge.png, id=27, 347.2975pt x 501.875pt>
+File: bigfingerHomoEdge.png Graphic file (type png)
+
+<use bigfingerHomoEdge.png>
+Package pdftex.def Info: bigfingerHomoEdge.png used on input line 166.
+(pdftex.def)             Requested size: 347.29665pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./bigfingerSobel.png>] [5 <./bigfingerCanny.png>] [6 <./bigfingerLePlace.pn
+g>] [7 <./bigfingerLePlaceGauss.png>] [8 <./bigfingerLePlaceGaussThreshold.png>
+] [9 <./bigfingerFreiChen.png>] [10 <./bigfingerPrewitt.png>] [11 <./bigfingerD
+iffEdge.png>] [12 <./bigfingerHomoEdge.png>]
+<handprint.png, id=65, 439.6425pt x 501.875pt>
+File: handprint.png Graphic file (type png)
+ <use handprint.png>
+Package pdftex.def Info: handprint.png used on input line 176.
+(pdftex.def)             Requested size: 439.64142pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<handprintSobel.png, id=66, 439.6425pt x 501.875pt>
+File: handprintSobel.png Graphic file (type png)
+ <use handprintSobel.png>
+Package pdftex.def Info: handprintSobel.png used on input line 183.
+(pdftex.def)             Requested size: 439.64142pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<handprintCanny.png, id=67, 439.6425pt x 501.875pt>
+File: handprintCanny.png Graphic file (type png)
+ <use handprintCanny.png>
+Package pdftex.def Info: handprintCanny.png used on input line 190.
+(pdftex.def)             Requested size: 439.64142pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<handprintLePlace.png, id=68, 439.6425pt x 501.875pt>
+File: handprintLePlace.png Graphic file (type png)
+
+<use handprintLePlace.png>
+Package pdftex.def Info: handprintLePlace.png used on input line 197.
+(pdftex.def)             Requested size: 439.64142pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<handprintLePlaceGauss.png, id=69, 439.6425pt x 501.875pt>
+File: handprintLePlaceGauss.png Graphic file (type png)
+
+<use handprintLePlaceGauss.png>
+Package pdftex.def Info: handprintLePlaceGauss.png used on input line 204.
+(pdftex.def)             Requested size: 439.64142pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<handprintLePlaceGaussThreshold.png, id=70, 439.6425pt x 501.875pt>
+File: handprintLePlaceGaussThreshold.png Graphic file (type png)
+
+<use handprintLePlaceGaussThreshold.png>
+Package pdftex.def Info: handprintLePlaceGaussThreshold.png used on input line 
+211.
+(pdftex.def)             Requested size: 439.64142pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<handprintFreiChen.png, id=71, 439.6425pt x 501.875pt>
+File: handprintFreiChen.png Graphic file (type png)
+
+<use handprintFreiChen.png>
+Package pdftex.def Info: handprintFreiChen.png used on input line 218.
+(pdftex.def)             Requested size: 439.64142pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<handprintPrewitt.png, id=72, 439.6425pt x 501.875pt>
+File: handprintPrewitt.png Graphic file (type png)
+
+<use handprintPrewitt.png>
+Package pdftex.def Info: handprintPrewitt.png used on input line 226.
+(pdftex.def)             Requested size: 439.64142pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<handprintDiffEdge.png, id=73, 439.6425pt x 501.875pt>
+File: handprintDiffEdge.png Graphic file (type png)
+
+<use handprintDiffEdge.png>
+Package pdftex.def Info: handprintDiffEdge.png used on input line 233.
+(pdftex.def)             Requested size: 439.64142pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<handprintHomoEdge.png, id=74, 439.6425pt x 501.875pt>
+File: handprintHomoEdge.png Graphic file (type png)
+
+<use handprintHomoEdge.png>
+Package pdftex.def Info: handprintHomoEdge.png used on input line 240.
+(pdftex.def)             Requested size: 439.64142pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13 <./handprint.png>] [14 <./handprintSobel.png>] [15 <./handprintCanny.png>]
+[16 <./handprintLePlace.png>] [17 <./handprintLePlaceGauss.png>] [18 <./handpri
+ntLePlaceGaussThreshold.png>] [19 <./handprintFreiChen.png>] [20 <./handprintPr
+ewitt.png>] [21 <./handprintDiffEdge.png>] [22 <./handprintHomoEdge.png>]
+<darkhand.png, id=117, 406.51875pt x 501.875pt>
+File: darkhand.png Graphic file (type png)
+ <use darkhand.png>
+Package pdftex.def Info: darkhand.png used on input line 250.
+(pdftex.def)             Requested size: 406.51775pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<darkhandSobel.png, id=118, 406.51875pt x 501.875pt>
+File: darkhandSobel.png Graphic file (type png)
+ <use darkhandSobel.png>
+Package pdftex.def Info: darkhandSobel.png used on input line 257.
+(pdftex.def)             Requested size: 406.51775pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<darkhandCanny.png, id=119, 406.51875pt x 501.875pt>
+File: darkhandCanny.png Graphic file (type png)
+ <use darkhandCanny.png>
+Package pdftex.def Info: darkhandCanny.png used on input line 266.
+(pdftex.def)             Requested size: 406.51775pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<darkhandLePlace.png, id=120, 406.51875pt x 501.875pt>
+File: darkhandLePlace.png Graphic file (type png)
+
+<use darkhandLePlace.png>
+Package pdftex.def Info: darkhandLePlace.png used on input line 273.
+(pdftex.def)             Requested size: 406.51775pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<darkhandLePlaceGauss.png, id=121, 406.51875pt x 501.875pt>
+File: darkhandLePlaceGauss.png Graphic file (type png)
+
+<use darkhandLePlaceGauss.png>
+Package pdftex.def Info: darkhandLePlaceGauss.png used on input line 280.
+(pdftex.def)             Requested size: 406.51775pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<darkhandLePlaceGaussThreshold.png, id=122, 406.51875pt x 501.875pt>
+File: darkhandLePlaceGaussThreshold.png Graphic file (type png)
+
+<use darkhandLePlaceGaussThreshold.png>
+Package pdftex.def Info: darkhandLePlaceGaussThreshold.png used on input line 2
+87.
+(pdftex.def)             Requested size: 406.51775pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<darkhandFreiChen.png, id=123, 406.51875pt x 501.875pt>
+File: darkhandFreiChen.png Graphic file (type png)
+
+<use darkhandFreiChen.png>
+Package pdftex.def Info: darkhandFreiChen.png used on input line 295.
+(pdftex.def)             Requested size: 406.51775pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<darkhandPrewitt.png, id=124, 406.51875pt x 501.875pt>
+File: darkhandPrewitt.png Graphic file (type png)
+
+<use darkhandPrewitt.png>
+Package pdftex.def Info: darkhandPrewitt.png used on input line 302.
+(pdftex.def)             Requested size: 406.51775pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<darkhandDiffEdge.png, id=125, 406.51875pt x 501.875pt>
+File: darkhandDiffEdge.png Graphic file (type png)
+
+<use darkhandDiffEdge.png>
+Package pdftex.def Info: darkhandDiffEdge.png used on input line 309.
+(pdftex.def)             Requested size: 406.51775pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<darkhandHomoEdge.png, id=126, 406.51875pt x 501.875pt>
+File: darkhandHomoEdge.png Graphic file (type png)
+
+<use darkhandHomoEdge.png>
+Package pdftex.def Info: darkhandHomoEdge.png used on input line 316.
+(pdftex.def)             Requested size: 406.51775pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23 <./darkhand.png>] [24 <./darkhandSobel.png>] [25 <./darkhandCanny.png>]
+[26 <./darkhandLePlace.png>] [27 <./darkhandLePlaceGauss.png>] [28 <./darkhandL
+ePlaceGaussThreshold.png>] [29 <./darkhandFreiChen.png>] [30 <./darkhandPrewitt
+.png>] [31 <./darkhandDiffEdge.png>] [32 <./darkhandHomoEdge.png>]
+<patterns.png, id=169, 494.84875pt x 501.875pt>
+File: patterns.png Graphic file (type png)
+ <use patterns.png>
+Package pdftex.def Info: patterns.png used on input line 326.
+(pdftex.def)             Requested size: 494.84755pt x 501.87376pt.
+
+Overfull \hbox (25.09253pt too wide) in paragraph at lines 326--326
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<patternsSobel.png, id=170, 494.84875pt x 501.875pt>
+File: patternsSobel.png Graphic file (type png)
+ <use patternsSobel.png>
+Package pdftex.def Info: patternsSobel.png used on input line 333.
+(pdftex.def)             Requested size: 494.84755pt x 501.87376pt.
+
+Overfull \hbox (25.09253pt too wide) in paragraph at lines 333--333
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<patternsCanny.png, id=171, 494.84875pt x 501.875pt>
+File: patternsCanny.png Graphic file (type png)
+ <use patternsCanny.png>
+Package pdftex.def Info: patternsCanny.png used on input line 340.
+(pdftex.def)             Requested size: 494.84755pt x 501.87376pt.
+
+Overfull \hbox (25.09253pt too wide) in paragraph at lines 340--340
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<patternsLeplace.png, id=172, 494.84875pt x 501.875pt>
+File: patternsLeplace.png Graphic file (type png)
+
+<use patternsLeplace.png>
+Package pdftex.def Info: patternsLeplace.png used on input line 347.
+(pdftex.def)             Requested size: 494.84755pt x 501.87376pt.
+
+Overfull \hbox (25.09253pt too wide) in paragraph at lines 347--347
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<patternsLePlaceGauss.png, id=173, 494.84875pt x 501.875pt>
+File: patternsLePlaceGauss.png Graphic file (type png)
+
+<use patternsLePlaceGauss.png>
+Package pdftex.def Info: patternsLePlaceGauss.png used on input line 354.
+(pdftex.def)             Requested size: 494.84755pt x 501.87376pt.
+
+Overfull \hbox (25.09253pt too wide) in paragraph at lines 354--354
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<patternsLePlaceGaussThreshold.png, id=174, 494.84875pt x 501.875pt>
+File: patternsLePlaceGaussThreshold.png Graphic file (type png)
+
+<use patternsLePlaceGaussThreshold.png>
+Package pdftex.def Info: patternsLePlaceGaussThreshold.png used on input line 3
+61.
+(pdftex.def)             Requested size: 494.84755pt x 501.87376pt.
+
+Overfull \hbox (25.09253pt too wide) in paragraph at lines 361--361
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<patternsFreiChen.png, id=175, 494.84875pt x 501.875pt>
+File: patternsFreiChen.png Graphic file (type png)
+
+<use patternsFreiChen.png>
+Package pdftex.def Info: patternsFreiChen.png used on input line 368.
+(pdftex.def)             Requested size: 494.84755pt x 501.87376pt.
+
+Overfull \hbox (25.09253pt too wide) in paragraph at lines 368--368
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<patternsPrewitt.png, id=176, 494.84875pt x 501.875pt>
+File: patternsPrewitt.png Graphic file (type png)
+
+<use patternsPrewitt.png>
+Package pdftex.def Info: patternsPrewitt.png used on input line 375.
+(pdftex.def)             Requested size: 494.84755pt x 501.87376pt.
+
+Overfull \hbox (25.09253pt too wide) in paragraph at lines 375--375
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<patternsDiffEdge.png, id=177, 494.84875pt x 501.875pt>
+File: patternsDiffEdge.png Graphic file (type png)
+
+<use patternsDiffEdge.png>
+Package pdftex.def Info: patternsDiffEdge.png used on input line 382.
+(pdftex.def)             Requested size: 494.84755pt x 501.87376pt.
+
+Overfull \hbox (25.09253pt too wide) in paragraph at lines 382--382
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<patternsHomoEdge.png, id=178, 494.84875pt x 501.875pt>
+File: patternsHomoEdge.png Graphic file (type png)
+
+<use patternsHomoEdge.png>
+Package pdftex.def Info: patternsHomoEdge.png used on input line 389.
+(pdftex.def)             Requested size: 494.84755pt x 501.87376pt.
+
+Overfull \hbox (25.09253pt too wide) in paragraph at lines 389--389
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33 <./patterns.png>] [34 <./patternsSobel.png>] [35 <./patternsCanny.png>]
+[36 <./patternsLeplace.png>] [37 <./patternsLePlaceGauss.png>] [38 <./patternsL
+ePlaceGaussThreshold.png>] [39 <./patternsFreiChen.png>] [40 <./patternsPrewitt
+.png>] [41 <./patternsDiffEdge.png>] [42 <./patternsHomoEdge.png>]
+<normaltext.png, id=220, 413.545pt x 501.875pt>
+File: normaltext.png Graphic file (type png)
+ <use normaltext.png>
+Package pdftex.def Info: normaltext.png used on input line 399.
+(pdftex.def)             Requested size: 351.5149pt x 426.59575pt.
+ [43
+
+
+
+
+ <./normaltext.png>] <normaltextSobel.png, id=226, 413.545pt x 501.875pt>
+File: normaltextSobel.png Graphic file (type png)
+
+<use normaltextSobel.png>
+Package pdftex.def Info: normaltextSobel.png used on input line 406.
+(pdftex.def)             Requested size: 413.54398pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<normaltextCanny.png, id=227, 413.545pt x 501.875pt>
+File: normaltextCanny.png Graphic file (type png)
+ <use normaltextCanny.png>
+Package pdftex.def Info: normaltextCanny.png used on input line 413.
+(pdftex.def)             Requested size: 413.54398pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<normaltextLePlace.png, id=228, 413.545pt x 501.875pt>
+File: normaltextLePlace.png Graphic file (type png)
+
+<use normaltextLePlace.png>
+Package pdftex.def Info: normaltextLePlace.png used on input line 420.
+(pdftex.def)             Requested size: 413.54398pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<normaltextLePlaceGauss.png, id=229, 413.545pt x 501.875pt>
+File: normaltextLePlaceGauss.png Graphic file (type png)
+
+<use normaltextLePlaceGauss.png>
+Package pdftex.def Info: normaltextLePlaceGauss.png used on input line 427.
+(pdftex.def)             Requested size: 413.54398pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<normaltextLePlaceGaussThreshold.png, id=230, 413.545pt x 501.875pt>
+File: normaltextLePlaceGaussThreshold.png Graphic file (type png)
+
+<use normaltextLePlaceGaussThreshold.png>
+Package pdftex.def Info: normaltextLePlaceGaussThreshold.png used on input line
+ 434.
+(pdftex.def)             Requested size: 413.54398pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<normaltextFreiChen.png, id=231, 413.545pt x 501.875pt>
+File: normaltextFreiChen.png Graphic file (type png)
+
+<use normaltextFreiChen.png>
+Package pdftex.def Info: normaltextFreiChen.png used on input line 441.
+(pdftex.def)             Requested size: 413.54398pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<normaltextPrewitt.png, id=232, 413.545pt x 501.875pt>
+File: normaltextPrewitt.png Graphic file (type png)
+
+<use normaltextPrewitt.png>
+Package pdftex.def Info: normaltextPrewitt.png used on input line 448.
+(pdftex.def)             Requested size: 413.54398pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<normaltextDiffEdge.png, id=233, 413.545pt x 501.875pt>
+File: normaltextDiffEdge.png Graphic file (type png)
+
+<use normaltextDiffEdge.png>
+Package pdftex.def Info: normaltextDiffEdge.png used on input line 455.
+(pdftex.def)             Requested size: 413.54398pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<normaltextHomoEdge.png, id=234, 413.545pt x 501.875pt>
+File: normaltextHomoEdge.png Graphic file (type png)
+
+<use normaltextHomoEdge.png>
+Package pdftex.def Info: normaltextHomoEdge.png used on input line 462.
+(pdftex.def)             Requested size: 413.54398pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[44 <./normaltextSobel.png>] [45 <./normaltextCanny.png>] [46 <./normaltextLePl
+ace.png>] [47 <./normaltextLePlaceGauss.png>] [48 <./normaltextLePlaceGaussThre
+shold.png>] [49 <./normaltextFreiChen.png>] [50 <./normaltextPrewitt.png>]
+[51 <./normaltextDiffEdge.png>] [52 <./normaltextHomoEdge.png>]
+<diffnormal.png, id=273, 317.185pt x 501.875pt>
+File: diffnormal.png Graphic file (type png)
+ <use diffnormal.png>
+Package pdftex.def Info: diffnormal.png used on input line 473.
+(pdftex.def)             Requested size: 317.1842pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<diffnormalSobel.png, id=274, 317.185pt x 501.875pt>
+File: diffnormalSobel.png Graphic file (type png)
+ <use diffnormalSobel.png>
+Package pdftex.def Info: diffnormalSobel.png used on input line 480.
+(pdftex.def)             Requested size: 317.1842pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<diffnormalCanny.png, id=275, 317.185pt x 501.875pt>
+File: diffnormalCanny.png Graphic file (type png)
+ <use diffnormalCanny.png>
+Package pdftex.def Info: diffnormalCanny.png used on input line 487.
+(pdftex.def)             Requested size: 317.1842pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<diffnormalLePlace.png, id=276, 317.185pt x 501.875pt>
+File: diffnormalLePlace.png Graphic file (type png)
+
+<use diffnormalLePlace.png>
+Package pdftex.def Info: diffnormalLePlace.png used on input line 494.
+(pdftex.def)             Requested size: 317.1842pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<diffnormalLePlaceGauss.png, id=277, 317.185pt x 501.875pt>
+File: diffnormalLePlaceGauss.png Graphic file (type png)
+
+<use diffnormalLePlaceGauss.png>
+Package pdftex.def Info: diffnormalLePlaceGauss.png used on input line 501.
+(pdftex.def)             Requested size: 317.1842pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<diffnormalLePlaceGaussThreshold.png, id=278, 317.185pt x 501.875pt>
+File: diffnormalLePlaceGaussThreshold.png Graphic file (type png)
+
+<use diffnormalLePlaceGaussThreshold.png>
+Package pdftex.def Info: diffnormalLePlaceGaussThreshold.png used on input line
+ 508.
+(pdftex.def)             Requested size: 317.1842pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<diffnormalFreiChen.png, id=279, 317.185pt x 501.875pt>
+File: diffnormalFreiChen.png Graphic file (type png)
+
+<use diffnormalFreiChen.png>
+Package pdftex.def Info: diffnormalFreiChen.png used on input line 515.
+(pdftex.def)             Requested size: 317.1842pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<diffnormalPrewitt.png, id=280, 317.185pt x 501.875pt>
+File: diffnormalPrewitt.png Graphic file (type png)
+
+<use diffnormalPrewitt.png>
+Package pdftex.def Info: diffnormalPrewitt.png used on input line 522.
+(pdftex.def)             Requested size: 317.1842pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<diffnormalDiffEdge.png, id=281, 317.185pt x 501.875pt>
+File: diffnormalDiffEdge.png Graphic file (type png)
+
+<use diffnormalDiffEdge.png>
+Package pdftex.def Info: diffnormalDiffEdge.png used on input line 529.
+(pdftex.def)             Requested size: 317.1842pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<diffnormalHomoEdge.png, id=282, 317.185pt x 501.875pt>
+File: diffnormalHomoEdge.png Graphic file (type png)
+
+<use diffnormalHomoEdge.png>
+Package pdftex.def Info: diffnormalHomoEdge.png used on input line 536.
+(pdftex.def)             Requested size: 317.1842pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[53 <./diffnormal.png>] [54 <./diffnormalSobel.png>] [55 <./diffnormalCanny.png
+>] [56 <./diffnormalLePlace.png>] [57 <./diffnormalLePlaceGauss.png>] [58 <./di
+ffnormalLePlaceGaussThreshold.png>] [59 <./diffnormalFreiChen.png>] [60 <./diff
+normalPrewitt.png>] [61 <./diffnormalDiffEdge.png>] [62 <./diffnormalHomoEdge.p
+ng>] <weirdtext.png, id=325, 501.875pt x 341.275pt>
+File: weirdtext.png Graphic file (type png)
+ <use weirdtext.png>
+Package pdftex.def Info: weirdtext.png used on input line 547.
+(pdftex.def)             Requested size: 501.87376pt x 341.27415pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 547--547
+ [][] 
+ []
+
+[63
+
+
+ <./weirdtext.png>] <weirdtextSobel.png, id=330, 501.875pt x 341.275pt>
+File: weirdtextSobel.png Graphic file (type png)
+
+<use weirdtextSobel.png>
+Package pdftex.def Info: weirdtextSobel.png used on input line 554.
+(pdftex.def)             Requested size: 501.87376pt x 341.27415pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 554--554
+ [][] 
+ []
+
+[64 <./weirdtextSobel.png>]
+<weirdtextCanny.png, id=335, 501.875pt x 341.275pt>
+File: weirdtextCanny.png Graphic file (type png)
+ <use weirdtextCanny.png>
+Package pdftex.def Info: weirdtextCanny.png used on input line 561.
+(pdftex.def)             Requested size: 501.87376pt x 341.27415pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 561--561
+ [][] 
+ []
+
+[65 <./weirdtextCanny.png>]
+<weirdtextLePlace.png, id=340, 501.875pt x 341.275pt>
+File: weirdtextLePlace.png Graphic file (type png)
+
+<use weirdtextLePlace.png>
+Package pdftex.def Info: weirdtextLePlace.png used on input line 568.
+(pdftex.def)             Requested size: 501.87376pt x 341.27415pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 568--568
+ [][] 
+ []
+
+[66 <./weirdtextLePlace.png>]
+<weirdtextLePlaceGauss.png, id=345, 501.875pt x 341.275pt>
+File: weirdtextLePlaceGauss.png Graphic file (type png)
+
+<use weirdtextLePlaceGauss.png>
+Package pdftex.def Info: weirdtextLePlaceGauss.png used on input line 575.
+(pdftex.def)             Requested size: 501.87376pt x 341.27415pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 575--575
+ [][] 
+ []
+
+[67 <./weirdtextLePlaceGauss.png>]
+<weirdtextLePlaceGaussThreshold.png, id=351, 501.875pt x 341.275pt>
+File: weirdtextLePlaceGaussThreshold.png Graphic file (type png)
+
+<use weirdtextLePlaceGaussThreshold.png>
+Package pdftex.def Info: weirdtextLePlaceGaussThreshold.png used on input line 
+582.
+(pdftex.def)             Requested size: 501.87376pt x 341.27415pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 582--582
+ [][] 
+ []
+
+[68 <./weirdtextLePlaceGaussThreshold.png>]
+<weirdtextFreiChen.png, id=356, 501.875pt x 341.275pt>
+File: weirdtextFreiChen.png Graphic file (type png)
+
+<use weirdtextFreiChen.png>
+Package pdftex.def Info: weirdtextFreiChen.png used on input line 589.
+(pdftex.def)             Requested size: 501.87376pt x 341.27415pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 589--589
+ [][] 
+ []
+
+[69 <./weirdtextFreiChen.png>]
+<weirdtextPrewitt.png, id=361, 501.875pt x 341.275pt>
+File: weirdtextPrewitt.png Graphic file (type png)
+
+<use weirdtextPrewitt.png>
+Package pdftex.def Info: weirdtextPrewitt.png used on input line 596.
+(pdftex.def)             Requested size: 501.87376pt x 341.27415pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 596--596
+ [][] 
+ []
+
+[70 <./weirdtextPrewitt.png>]
+<weirdtextDiffEdge.png, id=366, 501.875pt x 341.275pt>
+File: weirdtextDiffEdge.png Graphic file (type png)
+
+<use weirdtextDiffEdge.png>
+Package pdftex.def Info: weirdtextDiffEdge.png used on input line 603.
+(pdftex.def)             Requested size: 501.87376pt x 341.27415pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 603--603
+ [][] 
+ []
+
+[71 <./weirdtextDiffEdge.png>]
+<weirdtextHomoEdge.png, id=371, 501.875pt x 341.275pt>
+File: weirdtextHomoEdge.png Graphic file (type png)
+
+<use weirdtextHomoEdge.png>
+Package pdftex.def Info: weirdtextHomoEdge.png used on input line 610.
+(pdftex.def)             Requested size: 501.87376pt x 341.27415pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 610--610
+ [][] 
+ []
+
+[72 <./weirdtextHomoEdge.png>] <thankyou.png, id=376, 501.875pt x 372.39125pt>
+File: thankyou.png Graphic file (type png)
+
+<use thankyou.png>
+Package pdftex.def Info: thankyou.png used on input line 621.
+(pdftex.def)             Requested size: 501.87376pt x 372.39034pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 621--621
+ [][] 
+ []
+
+[73
+
+ <./thankyou.png>] <thankyouSobel.png, id=382, 501.875pt x 372.39125pt>
+File: thankyouSobel.png Graphic file (type png)
+
+<use thankyouSobel.png>
+Package pdftex.def Info: thankyouSobel.png used on input line 629.
+(pdftex.def)             Requested size: 501.87376pt x 372.39034pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 629--629
+ [][] 
+ []
+
+[74 <./thankyouSobel.png>]
+<thankyouCanny.png, id=387, 501.875pt x 372.39125pt>
+File: thankyouCanny.png Graphic file (type png)
+ <use thankyouCanny.png>
+Package pdftex.def Info: thankyouCanny.png used on input line 636.
+(pdftex.def)             Requested size: 501.87376pt x 372.39034pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 636--636
+ [][] 
+ []
+
+[75 <./thankyouCanny.png>]
+<thankyouLePlace.png, id=392, 501.875pt x 372.39125pt>
+File: thankyouLePlace.png Graphic file (type png)
+
+<use thankyouLePlace.png>
+Package pdftex.def Info: thankyouLePlace.png used on input line 643.
+(pdftex.def)             Requested size: 501.87376pt x 372.39034pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 643--643
+ [][] 
+ []
+
+[76 <./thankyouLePlace.png>]
+<thankyouLePlaceGauss.png, id=397, 501.875pt x 372.39125pt>
+File: thankyouLePlaceGauss.png Graphic file (type png)
+
+<use thankyouLePlaceGauss.png>
+Package pdftex.def Info: thankyouLePlaceGauss.png used on input line 650.
+(pdftex.def)             Requested size: 501.87376pt x 372.39034pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 650--650
+ [][] 
+ []
+
+[77 <./thankyouLePlaceGauss.png>]
+<thankyouLePlaceGaussThreshold.png, id=402, 501.875pt x 372.39125pt>
+File: thankyouLePlaceGaussThreshold.png Graphic file (type png)
+
+<use thankyouLePlaceGaussThreshold.png>
+Package pdftex.def Info: thankyouLePlaceGaussThreshold.png used on input line 6
+58.
+(pdftex.def)             Requested size: 501.87376pt x 372.39034pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 658--658
+ [][] 
+ []
+
+[78 <./thankyouLePlaceGaussThreshold.png>]
+<thankyouFreiChen.png, id=407, 501.875pt x 372.39125pt>
+File: thankyouFreiChen.png Graphic file (type png)
+
+<use thankyouFreiChen.png>
+Package pdftex.def Info: thankyouFreiChen.png used on input line 665.
+(pdftex.def)             Requested size: 501.87376pt x 372.39034pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 665--665
+ [][] 
+ []
+
+[79 <./thankyouFreiChen.png>]
+<thankyouPrewitt.png, id=413, 501.875pt x 372.39125pt>
+File: thankyouPrewitt.png Graphic file (type png)
+
+<use thankyouPrewitt.png>
+Package pdftex.def Info: thankyouPrewitt.png used on input line 672.
+(pdftex.def)             Requested size: 501.87376pt x 372.39034pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 672--672
+ [][] 
+ []
+
+[80 <./thankyouPrewitt.png>]
+<thankyouDiffEdge.png, id=418, 501.875pt x 372.39125pt>
+File: thankyouDiffEdge.png Graphic file (type png)
+
+<use thankyouDiffEdge.png>
+Package pdftex.def Info: thankyouDiffEdge.png used on input line 679.
+(pdftex.def)             Requested size: 501.87376pt x 372.39034pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 679--679
+ [][] 
+ []
+
+[81 <./thankyouDiffEdge.png>]
+<thankyouHomoEdge.png, id=423, 501.875pt x 372.39125pt>
+File: thankyouHomoEdge.png Graphic file (type png)
+
+<use thankyouHomoEdge.png>
+Package pdftex.def Info: thankyouHomoEdge.png used on input line 686.
+(pdftex.def)             Requested size: 501.87376pt x 372.39034pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 686--686
+ [][] 
+ []
+
+[82 <./thankyouHomoEdge.png>] <smiling.png, id=428, 501.875pt x 501.875pt>
+File: smiling.png Graphic file (type png)
+
+<use smiling.png>
+Package pdftex.def Info: smiling.png used on input line 697.
+(pdftex.def)             Requested size: 426.59575pt x 426.59575pt.
+ [83
+
+ <./smiling.png>]
+<smilingSobel.png, id=433, 501.875pt x 501.875pt>
+File: smilingSobel.png Graphic file (type png)
+ <use smilingSobel.png>
+Package pdftex.def Info: smilingSobel.png used on input line 704.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 704--704
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<smilingCanny.png, id=434, 501.875pt x 501.875pt>
+File: smilingCanny.png Graphic file (type png)
+ <use smilingCanny.png>
+Package pdftex.def Info: smilingCanny.png used on input line 711.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 711--711
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<smilingLePlace.png, id=435, 501.875pt x 501.875pt>
+File: smilingLePlace.png Graphic file (type png)
+ <use smilingLePlace.png>
+Package pdftex.def Info: smilingLePlace.png used on input line 718.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 718--718
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<smilingLePlaceGauss.png, id=436, 501.875pt x 501.875pt>
+File: smilingLePlaceGauss.png Graphic file (type png)
+
+<use smilingLePlaceGauss.png>
+Package pdftex.def Info: smilingLePlaceGauss.png used on input line 725.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 725--725
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<smilingLePlaceGaussThreshold.png, id=437, 501.875pt x 501.875pt>
+File: smilingLePlaceGaussThreshold.png Graphic file (type png)
+
+<use smilingLePlaceGaussThreshold.png>
+Package pdftex.def Info: smilingLePlaceGaussThreshold.png used on input line 73
+2.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 732--732
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<smilingFreiChen.png, id=438, 501.875pt x 501.875pt>
+File: smilingFreiChen.png Graphic file (type png)
+ <use smilingFreiChen.png>
+Package pdftex.def Info: smilingFreiChen.png used on input line 739.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 739--739
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<smilingPrewitt.png, id=439, 501.875pt x 501.875pt>
+File: smilingPrewitt.png Graphic file (type png)
+ <use smilingPrewitt.png>
+Package pdftex.def Info: smilingPrewitt.png used on input line 746.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 746--746
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<smilingDiffEdge.png, id=440, 501.875pt x 501.875pt>
+File: smilingDiffEdge.png Graphic file (type png)
+ <use smilingDiffEdge.png>
+Package pdftex.def Info: smilingDiffEdge.png used on input line 753.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 753--753
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<smilingHomoEdge.png, id=441, 501.875pt x 501.875pt>
+File: smilingHomoEdge.png Graphic file (type png)
+ <use smilingHomoEdge.png>
+Package pdftex.def Info: smilingHomoEdge.png used on input line 760.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 760--760
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[84 <./smilingSobel.png>] [85 <./smilingCanny.png>] [86 <./smilingLePlace.png>]
+[87 <./smilingLePlaceGauss.png>] [88 <./smilingLePlaceGaussThreshold.png>]
+[89 <./smilingFreiChen.png>] [90 <./smilingPrewitt.png>] [91 <./smilingDiffEdge
+.png>] [92 <./smilingHomoEdge.png>] <old.png, id=480, 501.875pt x 501.875pt>
+File: old.png Graphic file (type png)
+
+<use old.png>
+Package pdftex.def Info: old.png used on input line 771.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 771--771
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<oldSobel.png, id=481, 501.875pt x 501.875pt>
+File: oldSobel.png Graphic file (type png)
+ <use oldSobel.png>
+Package pdftex.def Info: oldSobel.png used on input line 779.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 779--779
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<oldCanny.png, id=482, 501.875pt x 501.875pt>
+File: oldCanny.png Graphic file (type png)
+ <use oldCanny.png>
+Package pdftex.def Info: oldCanny.png used on input line 786.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 786--786
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<oldLePlace.png, id=483, 501.875pt x 501.875pt>
+File: oldLePlace.png Graphic file (type png)
+ <use oldLePlace.png>
+Package pdftex.def Info: oldLePlace.png used on input line 793.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 793--793
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<oldLePlaceGauss.png, id=484, 501.875pt x 501.875pt>
+File: oldLePlaceGauss.png Graphic file (type png)
+ <use oldLePlaceGauss.png>
+Package pdftex.def Info: oldLePlaceGauss.png used on input line 800.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 800--800
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<oldLePlaceGaussThreshold.png, id=485, 501.875pt x 501.875pt>
+File: oldLePlaceGaussThreshold.png Graphic file (type png)
+
+<use oldLePlaceGaussThreshold.png>
+Package pdftex.def Info: oldLePlaceGaussThreshold.png used on input line 807.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 807--807
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<oldFreiChen.png, id=486, 501.875pt x 501.875pt>
+File: oldFreiChen.png Graphic file (type png)
+ <use oldFreiChen.png>
+Package pdftex.def Info: oldFreiChen.png used on input line 814.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 814--814
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<oldPrewitt.png, id=487, 501.875pt x 501.875pt>
+File: oldPrewitt.png Graphic file (type png)
+ <use oldPrewitt.png>
+Package pdftex.def Info: oldPrewitt.png used on input line 821.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 821--821
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<oldDiffEdge.png, id=488, 501.875pt x 501.875pt>
+File: oldDiffEdge.png Graphic file (type png)
+ <use oldDiffEdge.png>
+Package pdftex.def Info: oldDiffEdge.png used on input line 828.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 828--828
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<oldHomoEdge.png, id=489, 501.875pt x 501.875pt>
+File: oldHomoEdge.png Graphic file (type png)
+ <use oldHomoEdge.png>
+Package pdftex.def Info: oldHomoEdge.png used on input line 835.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+
+Overfull \hbox (32.11874pt too wide) in paragraph at lines 835--835
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[93 <./old.png>] [94 <./oldSobel.png>] [95 <./oldCanny.png>] [96 <./oldLePlace.
+png>] [97 <./oldLePlaceGauss.png>] [98 <./oldLePlaceGaussThreshold.png>]
+[99 <./oldFreiChen.png>] [100 <./oldPrewitt.png>] [101 <./oldDiffEdge.png>]
+[102 <./oldHomoEdge.png>] <young.png, id=532, 332.24126pt x 501.875pt>
+File: young.png Graphic file (type png)
+
+<use young.png>
+Package pdftex.def Info: young.png used on input line 845.
+(pdftex.def)             Requested size: 332.24043pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<youngSobel.png, id=533, 332.24126pt x 501.875pt>
+File: youngSobel.png Graphic file (type png)
+ <use youngSobel.png>
+Package pdftex.def Info: youngSobel.png used on input line 852.
+(pdftex.def)             Requested size: 332.24043pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<youngCanny.png, id=534, 332.24126pt x 501.875pt>
+File: youngCanny.png Graphic file (type png)
+ <use youngCanny.png>
+Package pdftex.def Info: youngCanny.png used on input line 859.
+(pdftex.def)             Requested size: 332.24043pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<youngLePlace.png, id=535, 332.24126pt x 501.875pt>
+File: youngLePlace.png Graphic file (type png)
+ <use youngLePlace.png>
+Package pdftex.def Info: youngLePlace.png used on input line 866.
+(pdftex.def)             Requested size: 332.24043pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<youngLePlaceGauss.png, id=536, 332.24126pt x 501.875pt>
+File: youngLePlaceGauss.png Graphic file (type png)
+
+<use youngLePlaceGauss.png>
+Package pdftex.def Info: youngLePlaceGauss.png used on input line 873.
+(pdftex.def)             Requested size: 332.24043pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<youngLePlaceGaussThreshold.png, id=537, 332.24126pt x 501.875pt>
+File: youngLePlaceGaussThreshold.png Graphic file (type png)
+
+<use youngLePlaceGaussThreshold.png>
+Package pdftex.def Info: youngLePlaceGaussThreshold.png used on input line 880.
+
+(pdftex.def)             Requested size: 332.24043pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<youngFreiChen.png, id=538, 332.24126pt x 501.875pt>
+File: youngFreiChen.png Graphic file (type png)
+ <use youngFreiChen.png>
+Package pdftex.def Info: youngFreiChen.png used on input line 887.
+(pdftex.def)             Requested size: 332.24043pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<youngPrewitt.png, id=539, 332.24126pt x 501.875pt>
+File: youngPrewitt.png Graphic file (type png)
+ <use youngPrewitt.png>
+Package pdftex.def Info: youngPrewitt.png used on input line 894.
+(pdftex.def)             Requested size: 332.24043pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<youngDiffEdge.png, id=540, 332.24126pt x 501.875pt>
+File: youngDiffEdge.png Graphic file (type png)
+ <use youngDiffEdge.png>
+Package pdftex.def Info: youngDiffEdge.png used on input line 901.
+(pdftex.def)             Requested size: 332.24043pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<youngHomoEdge.png, id=541, 332.24126pt x 501.875pt>
+File: youngHomoEdge.png Graphic file (type png)
+ <use youngHomoEdge.png>
+Package pdftex.def Info: youngHomoEdge.png used on input line 908.
+(pdftex.def)             Requested size: 332.24043pt x 501.87376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[103 <./young.png>] [104 <./youngSobel.png>] [105 <./youngCanny.png>] [106 <./y
+oungLePlace.png>] [107 <./youngLePlaceGauss.png>] [108 <./youngLePlaceGaussThre
+shold.png>] [109 <./youngFreiChen.png>] [110 <./youngPrewitt.png>] [111 <./youn
+gDiffEdge.png>] [112 <./youngHomoEdge.png>] [113
+
+
+
+]
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ú in font ptmri7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ù in font ptmri7t!
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 926.
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 925--927
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--930
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 931--933
+\OT1/pcr/m/n/10 http : / / www . m-[]hikari . com / ams / ams-[]password-[]2008
+ / ams-[]password29-[]32-[]2008 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 931--933
+
+ []
+
+[114] (./gradProject.aux) ) 
+Here is how much of TeX's memory you used:
+ 5555 strings out of 493633
+ 80931 string characters out of 3143378
+ 146999 words of memory out of 3000000
+ 8632 multiletter control sequences out of 15000+200000
+ 23908 words of font info for 59 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 37i,11n,43p,956b,286s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/
+base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
+></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive
+/2011/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on gradProject.pdf (114 pages, 9046612 bytes).
+PDF statistics:
+ 618 PDF objects out of 1000 (max. 8388607)
+ 273 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 551 words of extra memory for PDF output out of 10000 (max. 10000000)
+

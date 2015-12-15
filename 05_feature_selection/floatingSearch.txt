@@ -1,0 +1,14 @@
+1. Find the t-score statistic for the 0th case (our initial set has 4 dimensions, {1,2,3,4})
+	- determine the "best" set of dimensions (the ones with the highest score)
+	- this set will consist of 1 dimension, since we start with a set of size k=1
+	- in our example, we will use the winner as dimension 4, so our set is {4}
+2. Use this dimension to find the combinations of the dimension with other dimensions of size k+1 (2 at this point)
+	- best scoring combination wins, keep the winner (if we set desired dims to 2, then we know our best combination and we are done)
+	- for our example, we will say that {4, 2} is our winner, so 4 and 2 are the best dimensions
+3. Otherwise, use these two dimensions to find our new best scoring by using all the combinations with other dimensions
+	- we try {4,2, 1}, {4, 2, 2}, {4,2,3}, {4,2,4} and pick a best scoring winner, let's say {4,2,1} is best
+  - if our desired dimensions is 3, then we use {4,2,1} and don't care about the rest of this  
+  - if not, we have to check if {2,1}, {2,2}, {2,3}, or {2,4} have a better score than {4,2}. 
+  - if they do, we have to replace {4,2} with the new winner, let's say {2,1} wins.
+  - we go back to step 2 and check all combinations of {2,1}, so we check {2,1,1}, {2,1,2}, {2,1,3}, {2,1,4}. If any of them are better than {4,2,1} (which doesn't have to be book-kept since {2,1,4} == {4,1,2}, book-keeping takes care of itself beyond 2 elements.)
+4. since our dimensions are 4, we probably won't use all 4, we're done.
